@@ -1,0 +1,13 @@
+tu-proyecto/
+├── data.json                # Archivo para almacenar las tarjetas
+├── server.js                # Archivo del servidor Node.js
+├── package.json             # Archivo de configuración de npm
+├── package-lock.json        # Archivo generado automáticamente por npm
+├── index.html               # Página principal (Inicio) - En la carpeta principal
+├── panel.html               # Página del panel de control - En la carpeta principal
+├── css/
+│   └── styles.css           # Estilos CSS
+├── js/
+│   ├── app.js               # Lógica de la página principal (index.html)
+│   └── panel.js             # Lógica del panel de control (panel.html)
+└── node_modules/            # Carpeta de módulos de Node.js

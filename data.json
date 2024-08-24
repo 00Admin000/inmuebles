@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1724411829646-cc1105f94dfd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "prueba",
+      "description": "djfgjbijbubgj",
+      "phone": "5547389976",
+      "type": "Renta"
+    },
+    {
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "title": "Departamento ",
+      "description": "yyyyddd",
+      "phone": "5527257780",
+      "type": "Venta"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1724368202147-121dae0bd49d?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Casa en las lomas ",
+      "description": "fgggggggg",
+      "phone": "5546389982",
+      "type": "Venta"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1724368202141-ef6f3522f50f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Departamento",
+      "description": "jjjjj",
+      "phone": "5547389976",
+      "type": "venta"
+    },
+    {
+      "image": "https://i.postimg.cc/63xgWJzS/canciller3.jpg",
+      "title": "Departamento",
+      "description": "ddddddddddddddd77777777777",
+      "phone": "5547389976",
+      "type": "venta"
+    },
+    {
+      "image": "https://i.postimg.cc/mrTTb5jm/se-vende-casa-4-rec-en-sierra-herm0sa-11529027117.jpg",
+      "title": "Departamento",
+      "description": "hhhhhhhhhhhh",
+      "phone": "5547389976",
+      "type": "venta"
+    },
+    {
+      "image": "https://drive.google.com/file/d/1HXZ7svhhPjn_iQ8CqYw7-Mk8kWVwg6tm/view?usp=drive_link",
+      "title": "pruebaaa",
+      "description": "ffff",
+      "phone": "5546389982",
+      "type": "venta"
+    },
+    {
+      "image": "https://drive.google.com/file/d/1HXZ7svhhPjn_iQ8CqYw7-Mk8kWVwg6tm/view?usp=drive_link",
+      "title": "pruebaaa",
+      "description": "hhhhhhhhhhlululujlulu",
+      "phone": "5546389982",
+      "type": "renta"
+    },
+    {
+      "image": "https://drive.google.com/file/d/1HXZ7svhhPjn_iQ8CqYw7-Mk8kWVwg6tm/view?usp=drive_link",
+      "title": "pruebaaa",
+      "description": "jjjjjjjj",
+      "phone": "5546389982",
+      "type": "venta"
+    },
+    {
+      "image": "https://drive.google.com/file/d/1HXZ7svhhPjn_iQ8CqYw7-Mk8kWVwg6tm/view?usp=sharing",
+      "title": "Departamento",
+      "description": "555555555",
+      "phone": "5547389976",
+      "type": "venta"
+    },
+    {
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "title": "Casa en Colima ",
+      "description": "llllllllllllllllllllllllllllllllllllllllllllll",
+      "phone": "5514497240",
+      "type": "renta"
+    },
+    {
+      "image": "https://i.postimg.cc/rsCPZLZS/salon2.jpg",
+      "title": "Salón En Las Lomas",
+      "description": "Es un salón color rosa en las lomas, en la roma.",
+      "phone": "5514233432",
+      "type": "renta"
+    }
+  ]
+}
